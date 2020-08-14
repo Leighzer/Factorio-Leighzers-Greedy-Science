@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+  Changes:
+    - Add dependency to library mod.
+    - Add optional dependency to Leighzer's Factoricons (add accumulator to in assembler space science recipe).
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
   Changes:
     - Initial release.
