@@ -1,4 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+  Changes:
+    - Added support for Leighzer's Nuclear Science Pack.
+    - Move recipe changes to more appropriate data-updates stage.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+  Changes:
+    - Version bump on dependencies.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+  Changes:
+    - Actually add optional dependency to Leighzer's Factoricons (add accumulator to in assembler space science recipe).
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
   Changes:
     - Add dependency to library mod.
