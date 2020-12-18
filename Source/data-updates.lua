@@ -22,7 +22,7 @@ end
 if mods["leighzerfactoricons"] and data.raw.recipe["space-science-pack"] then
     leighzermods.utils.addIngredientToRecipe("space-science-pack",{name="accumulator",amount=2})
 end
-if mods["leighzernuclearsciencepack"] and data.raw.recipe["nuclear-science-pack"] then
-    leighzermods.utils.addIngredientToRecipe("nuclear-science-pack",{name="sulfuric-acid",amount=50,type="fluid"})
+if mods["leighzeruraniuminnovations"] and data.raw.recipe["nuclear-science-pack"] then
+    leighzermods.utils.addIngredientToRecipe("nuclear-science-pack",{name="sulfuric-acid",amount=100,type="fluid"})
     data.raw.recipe["nuclear-science-pack"].category = "crafting-with-fluid"    
 end
